@@ -2,7 +2,7 @@
 build.version: 1.0
 
 cards:
-  message: "Welcome to the contact support of Cards Service - Production"
+  message: "Welcome to the contact support of Cards Service - Prod"
   contactDetails:
     name: "Riya Sharma - Production"
     email: "riyasharma@piggybank.com"
