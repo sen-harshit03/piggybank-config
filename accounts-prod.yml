@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to the contact support of Accounts Service - Production"
+  message: "Welcome to the contact support of Accounts Service - Prod"
   contactDetails:
     name: "Arya Stark - Prod"
     email: "aryastark@piggybank.com"
