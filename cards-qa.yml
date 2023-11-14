@@ -1,9 +1,11 @@
+build:
+    version: 2.0
 
 cards:
-  message: "Welcome to the contact support of Cards Service - QA"
-  contactDetails:
+    message: "Welcome to the contact support of Cards Service - QA"
+    contactDetails:
     name: "Viraj Sharma - QA"
     email: "virajsharma@piggybank.com"
-  onCallSupport:
+    onCallSupport:
     - (555) 123-7703
     - (555) 123-7704

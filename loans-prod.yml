@@ -4,10 +4,10 @@ build:
 
 
 loans:
-  message: "Welcome to the contact support of Loans Service - Prod"
-  contactDetails:
+    message: "Welcome to the contact support of Loans Service - Prod"
+    contactDetails:
     name: "Akash Singh - Prod"
     email: "singhakash@piggybank.com"
-  onCallSupport:
+    onCallSupport:
     - (555) 123-7711
     - (555) 123-7712

@@ -1,14 +1,14 @@
 
 build:
-  version: 3.0
+    version: 3.0
 
 
 loans:
-  message: "Welcome to the contact support of Loans Service - Dev"
-  contactDetails:
+    message: "Welcome to the contact support of Loans Service - Dev"
+    contactDetails:
     name: "Isha Roy - SDE"
     email: "isharoy@piggybank.com"
-  onCallSupport:
+    onCallSupport:
     - (555) 123-7716
     - (555) 123-7717
 

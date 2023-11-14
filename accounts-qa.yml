@@ -1,13 +1,13 @@
 
 build:
-  version: "2.0"
+    version: "2.0"
 
 
 accounts:
-  message: "Welcome to the contact support of Accounts Service - QA"
-  contactDetails:
+    message: "Welcome to the contact support of Accounts Service - QA"
+    contactDetails:
     name: "Rob Stark - QA"
     email: "starkrob@piggybank.com"
-  onCallSupport:
+    onCallSupport:
     - (555) 123-7773
     - (555) 123-7774

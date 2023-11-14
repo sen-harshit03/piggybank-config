@@ -1,11 +1,12 @@
 
-build.version: 1.0
+build:
+    version: 1.0
 
 cards:
-  message: "Welcome to the contact support of Cards Service - Prod"
-  contactDetails:
+    message: "Welcome to the contact support of Cards Service - Prod"
+    contactDetails:
     name: "Riya Sharma - Prod"
     email: "riyasharma@piggybank.com"
-  onCallSupport:
+    onCallSupport:
     - (555) 123-7705
     - (555) 123-7706
