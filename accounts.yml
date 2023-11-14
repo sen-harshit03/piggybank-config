@@ -5,8 +5,8 @@ build:
 accounts:
     message: "Welcome to the contact support of Accounts Service - Dev"
     contactDetails:
-    name: "Arnav Jain - SDE"
-    email: "jainarnav@piggybank.com"
-    onCallSupport:
-    - (555) 123-7775
-    - (555) 123-7776
+        name: "Arnav Jain - SDE"
+        email: "jainarnav@piggybank.com"
+        onCallSupport:
+        - (555) 123-7775
+        - (555) 123-7776

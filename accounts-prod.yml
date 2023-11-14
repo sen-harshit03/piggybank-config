@@ -6,8 +6,8 @@ build:
 accounts:
     message: "Welcome to the contact support of Accounts Service - Prod"
     contactDetails:
-    name: "Arya Stark - Prod"
-    email: "aryastark@piggybank.com"
-    onCallSupport:
-    - (555) 123-7771
-    - (555) 123-7772
+        name: "Arya Stark - Prod"
+        email: "aryastark@piggybank.com"
+        onCallSupport:
+        - (555) 123-7771
+        - (555) 123-7772

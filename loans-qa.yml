@@ -6,8 +6,8 @@ build:
 loans:
     message: "Welcome to the contact support of Loans Service - QA"
     contactDetails:
-    name: "Rohan Roy - QA"
-    email: "royrohan@piggybank.com"
-    onCallSupport:
-    - (555) 123-7714
-    - (555) 123-7715
+        name: "Rohan Roy - QA"
+        email: "royrohan@piggybank.com"
+        onCallSupport:
+        - (555) 123-7714
+        - (555) 123-7715
